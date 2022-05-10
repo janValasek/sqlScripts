@@ -1,0 +1,1 @@
+  DBCC CHECKIDENT (#tblName, RESEED, 0)
